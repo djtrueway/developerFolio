@@ -11,9 +11,9 @@ export default function Contact() {
           <p className="subTitle contact-subtitle">Discuss a project or just want to say hi my inbox is open for all</p>
         </div>
         <div className="contact-text-div">
-          <h1 className="contact-detail">+92-3243454077</h1>
+          <h1 className="contact-detail">+50936685393</h1>
 
-          <h1 className="contact-detail-email">saadpasta70@gmail.com</h1>
+          <h1 className="contact-detail-email">peterson@sajesunlock.com</h1>
 
           <SocialMedia />
         </div>
